@@ -1,7 +1,7 @@
 # UAS SEMESTER 1
-### NAMA  : DIYAN ARUM MAHESWARI
+### NAMA  : ALFHIN CHORRYAGNESHA 
 ### KELAS : TI. 20. A. 1
-### NIM   : 312010133
+### NIM   : 312010504
 ________________________________________________________________________________________________________________________
 Pada UAS di pertemuan ke-16 ini, saya diberikan beberapa tugas oleh dosen saya, yaitu diantaranya:
 
